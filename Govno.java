@@ -1,5 +1,8 @@
 public class Govno {
     public static void main(String[] args) {
-        System.out.println("Яна Солях");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Яна Солях");
+            //Привеgity т
+        }
     }
 }
