@@ -2,7 +2,8 @@ public class Govno {
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
             System.out.println("Яна Солях");
-            //первое измененеи 
+            //первое измененеи
+            //вот я сделал изменение надо сделать комит
         }
     }
 }
