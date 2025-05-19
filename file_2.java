@@ -1,5 +1,5 @@
 public class file_2 {
     public static void main(String[] args) {
-        //Первый коммит вау
+        //типа исправили ошибку
     }
 }
