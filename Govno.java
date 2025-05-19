@@ -20,8 +20,6 @@ public class Govno {
             System.out.println("5");
 
 
-
-
         }
     }
 }
