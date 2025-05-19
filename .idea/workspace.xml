@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d941e492-3983-463c-87ab-95423dd6753e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AnotherCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "add-someCode",
+    "git-widget-placeholder": "add-testFile",
     "last_opened_file_path": "/home/nyanpasu/IdeaProjects/test_project_mkdir",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
